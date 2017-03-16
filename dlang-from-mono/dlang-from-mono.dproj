@@ -42,4 +42,7 @@
     <Externalconsole>true</Externalconsole>
     <DebugLevel>0</DebugLevel>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="source\app.d" />
+  </ItemGroup>
 </Project>
